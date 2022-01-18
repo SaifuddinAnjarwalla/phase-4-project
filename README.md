@@ -46,9 +46,10 @@ I calculated the ROI for all the remaining properties and chose the properties w
 
 ## EDA
 
+### House prices over time
 ![housep](https://github.com/SaifuddinAnjarwalla/phase-4-project/blob/7e04a7c75e005f5285a5ce2df1402ad47cdd6583/photos/housep.png)
 
-
+### Density plot
 ![housed](https://github.com/SaifuddinAnjarwalla/phase-4-project/blob/7e04a7c75e005f5285a5ce2df1402ad47cdd6583/photos/housed.png)
 
 
