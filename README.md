@@ -28,6 +28,9 @@ Given the necessity to use data to make investment decisions i have the role to 
 
 ## Filtering the data
 
+![data](https://github.com/SaifuddinAnjarwalla/phase-4-project/blob/7e04a7c75e005f5285a5ce2df1402ad47cdd6583/photos/data.jpg)
+
+
 I decide to filter the data based on zip code. 
 
 I take the top 20% of zip codes as this would give me property that is more urbanized. This is preferable to me as an investor. 
@@ -43,6 +46,12 @@ I calculated the ROI for all the remaining properties and chose the properties w
 
 ## EDA
 
+![housep](https://github.com/SaifuddinAnjarwalla/phase-4-project/blob/7e04a7c75e005f5285a5ce2df1402ad47cdd6583/photos/housep.png)
+
+
+![housed](https://github.com/SaifuddinAnjarwalla/phase-4-project/blob/7e04a7c75e005f5285a5ce2df1402ad47cdd6583/photos/housed.png)
+
+
 
 ## Building the model 
 
@@ -52,6 +61,7 @@ I go through each region individually and build each an arima model. I check for
 
 I then forecast the models for 1,5 and 10 years into the future. I decide to use 5 years as the invesmtne horizon adn filter the 7 datapoints i have to 5 based on the 5 year ROI. These are thus my recommendations.
 
+![forecasts](https://github.com/SaifuddinAnjarwalla/phase-4-project/blob/7e04a7c75e005f5285a5ce2df1402ad47cdd6583/photos/preds.png)
 
 The Regions i would invest in, in order of preference are. 
 1. 70809
